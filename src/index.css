@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* responsive code */
+@media (max-width: 991px){
+  #header{
+    height: 80vh;
+    text-align: center;
+  }
+}
+.fontFamily{
+  font-family: 'Dancing Script', cursive;
+}
+.text{
+  text-align: justify;  
+}
